@@ -1,0 +1,5 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Patterns.Observer\bin\Debug\ConceptArchitect.Patterns.Observer.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Patterns.Observer\bin\Debug\ConceptArchitect.Patterns.Observer.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Patterns.Observer\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Patterns.Observer\obj\Debug\ConceptArchitect.Patterns.Observer.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Patterns.Observer\obj\Debug\ConceptArchitect.Patterns.Observer.pdb

@@ -1,0 +1,31 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\CricketApp.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\CricketApp.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\obj\Debug\CricketApp.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\CricketApp\obj\Debug\CricketApp.pdb
+C:\Sample codes\ObjserverDemo\CricketApp\obj\Debug\CricketApp.csprojAssemblyReference.cache
+C:\Sample codes\ObjserverDemo\CricketApp\obj\Debug\CricketApp.csproj.CoreCompileInputs.cache
+C:\Sample codes\ObjserverDemo\CricketApp\obj\Debug\CricketApp.exe
+C:\Sample codes\ObjserverDemo\CricketApp\obj\Debug\CricketApp.pdb
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\CricketApp.exe
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\CricketApp.pdb
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.dll
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.dll
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.pdb
+C:\Sample codes\ObjserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.pdb
+C:\Sample codes\ObjserverDemo\CricketApp\obj\Debug\CricketApp.csproj.CopyComplete
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\CricketApp.exe
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\CricketApp.pdb
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.dll
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.dll
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\ConceptArchitect.Apps.Cricket.pdb
+C:\SampleCodes\ObserverDemo\CricketApp\bin\Debug\ConceptArchitect.Patterns.Observer.pdb
+C:\SampleCodes\ObserverDemo\CricketApp\obj\Debug\CricketApp.csprojAssemblyReference.cache
+C:\SampleCodes\ObserverDemo\CricketApp\obj\Debug\CricketApp.csproj.CoreCompileInputs.cache
+C:\SampleCodes\ObserverDemo\CricketApp\obj\Debug\CricketApp.csproj.CopyComplete
+C:\SampleCodes\ObserverDemo\CricketApp\obj\Debug\CricketApp.exe
+C:\SampleCodes\ObserverDemo\CricketApp\obj\Debug\CricketApp.pdb

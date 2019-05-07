@@ -1,0 +1,7 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\bin\Debug\ConceptArchitect.Apps.Cricket.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\bin\Debug\ConceptArchitect.Apps.Cricket.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\bin\Debug\ConceptArchitect.Patterns.Observer.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\bin\Debug\ConceptArchitect.Patterns.Observer.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\obj\Debug\ConceptArchitect.Apps.Cricket.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\ObjserverDemo\ConceptArchitect.Apps.Cricket\obj\Debug\ConceptArchitect.Apps.Cricket.pdb
